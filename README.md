@@ -11,7 +11,7 @@ A feature-rich Grafana dashboard for monitoring Redis performance and health. Th
 <img width="2529" height="1354" alt="image" src="https://github.com/user-attachments/assets/427fcca7-2da9-48df-ac02-acf6b8189bcc" />
 <img width="2529" height="1357" alt="image" src="https://github.com/user-attachments/assets/72f4a68c-ca87-4f91-88a6-d6cacd69e02d" />
 <img width="2529" height="1357" alt="image" src="https://github.com/user-attachments/assets/35ff98ce-bcfc-4476-a9d2-a75845b93a49" />
-<img width="2529" height="1357" alt="image" src="https://github.com/user-attachments/assets/2700ce6f-f391-4641-b322-04df7caa2e2e" />
+<img width="2532" height="1372" alt="image" src="https://github.com/user-attachments/assets/6bd51a82-ea3d-43ba-add7-c51efd6158ce" />
 <img width="2529" height="1357" alt="image" src="https://github.com/user-attachments/assets/73336082-482a-417a-b7ad-6be0a2f46873" />
 <img width="2529" height="1357" alt="image" src="https://github.com/user-attachments/assets/c6a10212-3096-4674-ac0e-114eaa952422" />
 <img width="2529" height="934" alt="image" src="https://github.com/user-attachments/assets/393b1b9c-13d5-4df6-b2fe-2b81120c7c2d" />
